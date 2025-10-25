@@ -1,4 +1,4 @@
-# Partisanship-premium
+# The Price of Political Partisanship
 This repo contains supplementary material to "The Price of Political Partisanship". 
 
 - **Draft on SSRN**: See [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885595](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4986724)
